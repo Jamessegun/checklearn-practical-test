@@ -1,0 +1,1922 @@
+header{
+    display: inline;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 30px;
+
+}
+article{
+    display: block;
+    max-width: 100%;
+    margin: 20px 100px;
+    
+}
+nav{
+    display: inline-block;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+nav ul{
+    display: flex;
+}
+ul li{
+    display: inline-block;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+.first-section{
+    text-align:center ;
+}
+.first-section .Travel-for-good{
+    margin-bottom: 0px;
+    margin-top: 40px;
+    font-size: 10px;
+    font-weight: bold;
+    color: rgb(177, 17, 17);
+}
+section .celebrate-black{
+    margin-top: 10px;
+    font-size: 30px;
+
+}
+section img{
+width: 800px;
+
+}
+.second-section .most-recent-travel{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 80px;
+}
+
+.trending-news{
+    width: 30%;
+    display: inline-block;
+}
+.trending-news img{
+    display: block;
+    width: 100%;
+    height: 280px;
+}
+.second-section .trending-news p{
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom:10px;
+    padding: 0px;
+}
+.trending-news span{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+.cities-we-love{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+}
+.cities-we-love img{
+    display: block;
+    width: 100%;
+    height: 280px;
+}
+.second-section .cities-we-love p{
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom:10px;
+    padding: 0px;
+}
+.cities-we-love span{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.packing-tips{
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+}
+.packing-tips img{
+    display: block;
+    width: 100%;
+    height: 280px;
+}
+.second-section .packing-tips p{
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom:10px;
+    padding: 0px;
+}
+.packing-tips span{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.second-section .longreads{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 80px;
+}
+
+
+.Vinginia{
+    width: 46%;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.Vinginia img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.Vinginia p{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-bottom: 28px;
+    padding: 0px;
+}
+.Vinginia span{
+    padding: 0px;
+    color: black;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Vinginia em{
+    display: block;
+    margin: 10px 0px;
+    font-size: 11px;
+}
+
+
+.saudi-arabia{
+    width: 46%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    vertical-align: top;
+}
+.saudi-arabia img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.saudi-arabia p{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 0px;
+}
+.saudi-arabia span{
+    padding: 0px;
+    margin-top: 0px;
+    color: black;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.saudi-arabia em{
+    display: block;
+    margin: 10px 0px;
+    font-size: 11px;
+}
+
+
+
+.the-promise{
+    width: 46%;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.the-promise img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.the-promise p{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 0px;
+}
+.the-promise span{
+    padding: 0px;
+    margin-top: 0px;
+    color: black;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.the-promise  em{
+    display: block;
+    margin: 10px 0px;
+    font-size: 11px;
+}
+
+
+
+.chinatown{
+    width: 46%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    vertical-align: top;
+}
+.chinatown img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.chinatown p{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 0px;
+}
+.chinatown span{
+    padding: 0px;
+    margin-top: 0px;
+    color: black;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.chinatown em{
+    display: block;
+    margin: 10px 0px;
+    font-size: 11px;
+}
+
+.main-longread-div {
+display: inline-block;
+width: 70%;
+}
+
+
+.headline-ul{
+    display: inline-block;
+    width: 25%;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: top;
+    font-size: 26px;
+    line-height: 1.2em;
+}
+.headline-ul p{
+    color: rgb(177, 17, 17) ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+
+.More-from-AFAR-div{
+    margin: 40px 0px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    padding: 20px;
+}
+
+.third-section .editor-recommendation{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 50px;
+}
+
+.apple-airbag-review{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+}
+.apple-airbag-review img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.third-section .apple-airbag-review p{
+    margin-block-end: 0.5em;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px;
+    padding: 0px;
+}
+.apple-airbag-review span{
+    color: black;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+.Fat-travelers{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+}
+.Fat-travelers img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.third-section .Fat-travelers p{
+    margin-block-end: 0.5em;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px;
+    padding: 0px;
+}
+.Fat-travelers span{
+    color: black;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.best-cpmression{
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.best-cpmression img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.third-section .best-cpmression p{
+    margin-block-end: 0.5em;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px;
+    padding: 0px;
+}
+.best-cpmression span{
+    color: black;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+.main-where-to-go-next-div{
+    display: inline-block;
+    width: 70%;
+    }
+    
+.where-to-go-next{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 50px;
+}
+
+
+.Everything-You-Need{
+    width: 43%;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.Everything-You-Need img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.Everything-You-Need p{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-bottom: 42px;
+
+}
+.Everything-You-Need span{
+    color: black;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.The-Acient-Trading{
+    width: 43%;
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: top;
+}
+.The-Acient-Trading img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.The-Acient-Trading p{
+    margin-bottom: 18px;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 0px;
+}
+.The-Acient-Trading span{
+    margin-top:0px;
+    color: black;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.Best-Places-to-visit{
+    width: 43%;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.Best-Places-to-visit img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.Best-Places-to-visit p{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.Best-Places-to-visit span{
+    color: black;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.Great-Wintery-Trips{
+    width: 43%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    vertical-align: top;
+}
+.Great-Wintery-Trips img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.Great-Wintery-Trips p{
+    margin-bottom: 15px;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 0px;
+}
+.Great-Wintery-Trips span{
+    color: black;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.headline-ul2{
+    display: inline-block;
+    width: 25%;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: top;
+    font-size: 26px;
+    line-height: 1.2em;
+}
+.headline-ul p{
+    .headline-ul p{
+        color: rgb(177, 17, 17) ;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: bold;
+    }
+}
+
+
+ /*FOUTH SECTION */
+
+.fourth-section .incredible-hotels{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 50px;
+}
+
+.stay-here-next{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+}
+.stay-here-next img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.stay-here-next p{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.stay-here-next span{
+    color: black;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+.how-to-support{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+}
+.how-to-support img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.how-to-support p{
+    margin-bottom: 18px;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 0px;
+}
+.how-to-support span{
+    color: black;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.spend-the-night{
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+}
+.spend-the-night img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+ .spend-the-night p{
+    margin-bottom: 18px;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 0px;
+}
+.spend-the-night span{
+    color: black;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+/* FIFTH SECTION */
+
+.travel-guide-div{
+    margin-top: 40px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    padding: 20px;
+    margin: 40px 0px;
+}
+
+.featured-travel{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 50px;
+}
+
+.Saudi-travel{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.Saudi-travel img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.Saudi-travel p{
+    margin-block-end: 0.5em;
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding: 0px;
+}
+
+
+.Swizerland-travel{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+}
+.Swizerland-travel img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.Swizerland-travel p{
+    margin-block-end: 0.5em;
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom:0px;
+    padding: 0px;
+}
+
+
+.zealand-travel{
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+}
+.zealand-travel img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.zealand-travel p{
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom:0px;
+    padding: 0px;
+}
+
+
+
+.Puerto-travel{
+    width: 30%;
+    display: inline-block;
+
+}
+.Puerto-travel img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.Puerto-travel p{
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom:0px;
+    padding: 0px;
+}
+
+.California-travel{
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+}
+.California-travel img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.California-travel p{
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom:0px;
+    padding: 0px;
+}
+
+
+.Dhabi-travel{
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+}
+.Dhabi-travel img{
+    display: block;
+    width: 100%;
+    height: 275px;
+}
+.Dhabi-travel p{
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom:0px;
+    padding: 0px;
+}
+
+.container-div{
+    margin-top: 60px;
+}
+.headline-ul-01{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+
+    display: inline-block;
+}
+.headline-ul-01 p{
+    color: rgb(177, 17, 17);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.headline-ul-02{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.headline-ul-02 p{
+    color: rgb(177, 17, 17);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.headline-ul2 p{
+    color: rgb(177, 17, 17);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.headline-ul-03{
+    vertical-align: top;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    margin-left: 20px;
+    display: inline-block;
+    
+}
+.headline-ul-03 p{
+    color: rgb(177, 17, 17);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.Podcasts-div{
+    margin-top: 40px;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    padding: 20px;
+    margin: 40px 0px;
+}
+.section-seventh-div{
+    margin: 20px 80px;
+}
+.travel-tale-p{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 50px;
+}
+
+.trave-tales-adventures{
+    width: 23%;
+    display: inline-block;
+    vertical-align: top;
+}
+.trave-tales-adventures img{
+    display: block;
+    width: 100%;
+}
+.trave-tales-adventures p{
+    margin-block-end: 0.5em;
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding: 0px;
+}
+
+.trave-tales-adventures .second-paragraph{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.trave-tales-adventures span{
+    color: black;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px;
+}
+
+
+.Septuagenarian-Explorer{
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+.Septuagenarian-Explorer img{
+    display: block;
+    width: 100%;
+}
+.Septuagenarian-Explorer p{
+    margin-block-end: 0.5em;
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding: 0px;
+}
+.Septuagenarian-Explorer span{
+    color: black;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;    padding: 0px;
+    display: block;
+}
+.Septuagenarian-Explorer em{
+    color: black;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Ton-Trace{
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+}
+.Ton-Trace img{
+    display: block;
+    width: 100%;
+    height: 199px;
+}
+.Ton-Trace p{
+    margin-block-end: 0.5em;
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding: 0px;
+}
+.Ton-Trace span{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    margin-bottom:20px ;
+
+}
+.Ton-Trace em{
+    color: black;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
+}
+
+.Colombian-Enough{
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+.Colombian-Enough img{
+    display: block;
+    width: 100%;
+}
+.Colombian-Enough p{
+    margin-block-end: 0.5em;
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding: 0px;
+
+}
+.Colombian-Enough span{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+}
+
+.Colombian-Enough em{
+    color: black;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Meet-Me{
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+}
+.Meet-Me img{
+    display: block;
+    width: 100%;
+}
+.Meet-Me p{
+    margin-block-end: 0.5em;
+    color: rgb(177, 17, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
+    padding: 0px;
+
+}
+.Meet-Me span{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    margin-bottom: 2px;
+}
+.Meet-Me em{
+    color: black;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.inner-div{
+    display: inline-block;
+    width: 100%;
+}
+
+.trave-tales-adventures{
+    width: 35%;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.joint-div{
+    display: inline-block;
+    width: 60%;
+}
+
+.bt-more-episode{
+        align-items: center;
+        padding: 10px;
+        margin-left: 600px;
+        margin-top: 30px;
+        position: relative;
+        bottom: 100%;
+        left: -100px;
+}
+
+.eight-secton{
+    background: rgb(8, 10, 39);
+    padding:40px 20px;
+    margin: 0px 100px;
+    height: 380px;
+
+}
+.column-div{
+    display: inline-block;
+    width: 100%;
+}
+.column-div a{
+    text-decoration: none;
+    color: white;
+}
+.first-column{
+    width: 20%;
+    display: inline-block;
+}
+.first-column ul{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    line-height: 4em;
+    cursor: pointer;
+}
+.first-column li{
+display: block;
+}
+.second-column{
+    vertical-align: top;
+    width:18%;
+    display: inline-block;
+    margin-right: 0px;
+}
+.second-column ul{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    line-height: 4em;
+    padding: 0px;
+
+}
+.second-column li{
+    display: block;
+    cursor: pointer;
+}
+.third-column{
+    vertical-align: top;
+    width:20%;
+    display: inline-block;
+    
+}
+.third-column ul{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    line-height: 4em;
+}
+
+.third-column li{
+    display: block;
+    cursor: pointer;
+}
+.afar-footer-div {
+    display: inline-block;
+    width: 30%;
+    vertical-align:top;
+    margin-left: 60px;
+    margin-top: 0px;
+    
+}
+.afar-footer-div p{  
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom: 0px; 
+    margin-left: 0px;
+}
+.afar-footer-div ul{
+    list-style: none;
+    margin: 0px;
+    padding-inline-start: 0px;
+    width: 100%;
+} 
+.afar-footer-div ul li{
+margin: 0px;
+} 
+.afar-footer-div li img{
+    width: 30px;
+    display: flex;
+    
+}
+
+footer{  
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    margin-left: 70px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    
+}
+
+/*responsive styles*/
+@media screen and (max-width: 400px){
+    article{
+        display: block;
+        max-width:none;
+        margin: 0px 0px;
+        
+    }
+    header {
+        display: inline-block;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-bottom: 0px;
+    
+    }
+    nav{
+        width:100%;
+        margin-bottom:0px;
+        margin-left: 0px;
+    }
+    nav ul{
+        display: inline-block;
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+    }
+    nav a{
+        text-decoration: none;
+        color: black;
+    }
+    nav ul li{
+        display: inline-block;
+        margin-left:3px;
+        font-size: 5px;
+        padding: 0px;
+    }
+    .first-section .Travel-for-good{
+        font-size: 8px;
+
+    }
+    section .celebrate-black{
+        font-size: 20px;
+    
+    }
+    section img{
+    width: 100%;
+    }
+    .second-section .most-recent-travel{
+        font-size: 20px;
+        margin-top: 40px;
+    }
+    
+    .trending-news{
+        width: 30%;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .trending-news img{
+        width: 100%;
+        height: 90%;
+    }
+    .second-section .trending-news p{
+        font-size: 8px;
+        margin-bottom: 0px;
+
+    }
+    .trending-news span{
+        color: black;
+        font-size: 9px;
+    }
+    
+    
+    
+    
+    .cities-we-love{
+        width: 30%;
+        display: inline-block;
+        margin-left: 10px;
+    }
+    .cities-we-love img{
+        width: 100%;
+        height: 80px;
+    }
+    .second-section .cities-we-love p{
+        font-size: 8px;
+    }
+    .cities-we-love span{
+        color: black;
+        font-size: 9px;;
+    }
+    
+    
+    
+    .packing-tips{
+        width: 30%;
+        display: inline-block;
+        margin-left: 10px;
+    }
+    .packing-tips img{
+        width: 100%;
+        height: 80px;
+    }
+    .second-section .packing-tips p{
+        font-size: 8px;
+    }
+    .packing-tips span{
+        color: black;
+        font-size: 9px;
+    }
+    .second-section .longreads{
+        font-size: 20px;
+        margin-top: 40px;
+    }
+    
+    
+    .Vinginia{
+        width: 46%;
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    .Vinginia img{
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+    .Vinginia p{
+        color: black;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 7px;
+        margin-bottom: 5px;
+    }
+    .Vinginia span{
+        padding: 0px;
+        color: black;
+        font-size: 6px;
+        font-family: 'Times New Roman', Times, serif;
+        display: block;
+
+    
+    }
+    .Vinginia em{
+        font-size: 5px;
+    }
+    .Vinginia hr{
+        vertical-align: bottom;
+    }
+    
+    
+    .saudi-arabia{
+        width: 46%;
+        display: inline-block;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        vertical-align: top;
+    }
+    .saudi-arabia img{
+        width: 100%;
+        height: 100%;
+    }
+    .saudi-arabia p{
+        color: black;
+        color: black;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 6px;
+        margin-bottom: 5px;
+    }
+    .saudi-arabia span{
+        padding: 0px;
+        color: black;
+        font-size: 8px;
+        font-family: 'Times New Roman', Times, serif;
+        display: block;
+        font-size: 6px;
+        margin-top: 10px;
+    }
+    .saudi-arabia em{
+        font-size: 5px;
+    }
+    .saudi-arabia hr{
+        vertical-align: bottom;
+    }
+    
+    
+    
+    .the-promise{
+        width: 46%;
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    .the-promise img{
+        width: 100%;
+        height: 75px;
+    }
+    .the-promise p{
+        color: black;
+        color: black;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 6px;
+        margin-bottom: 10px;
+    }
+    .the-promise span{
+        padding: 0px;
+        color: black;
+        font-size: 8px;
+        font-family: 'Times New Roman', Times, serif;
+        display: block;
+        font-size: 6px;
+    }
+    .the-promise em{
+        font-size: 5px;    }
+
+    .the-promise hr{
+        vertical-align: bottom;
+        margin: 0px;
+    }
+    
+    .chinatown{
+        width: 46%;
+        display: inline-block;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        vertical-align: top;
+    }
+    .chinatown img{
+        width: 100%;
+        height: 75px;
+    }
+    .chinatown p{
+        color: black;
+        color: black;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 6px;
+        margin-bottom: 10px;
+    }
+    .chinatown span{
+        font-size: 8px;
+        display: block;
+        font-size: 6px;
+        margin-bottom: 0px;
+
+    }
+    .chinatown em{
+        font-size: 5px; 
+    }
+    .chinatown hr{
+        margin: 0px;
+    }
+    
+    .main-longread-div{
+    display: inline-block;
+    width: 70%;
+    }
+    
+    
+    .headline-ul{
+        font-size: 12px;
+    }
+    .More-from-AFAR-div{
+        margin: 10px 0px;
+        font-size: 20px;
+        padding: 1px;
+    }
+    
+    .third-section .editor-recommendation{
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    
+    .apple-airbag-review img{
+        display: block;
+        width: 100%;
+        height: 70px;
+    }
+    .third-section .apple-airbag-review p{
+        font-size: 6px;
+
+    }
+    .apple-airbag-review span{
+        font-size: 4px;
+    }
+    .Fat-travelers{
+        margin-left: 10px;
+    }
+    .Fat-travelers img{
+        display: block;
+        width: 100%;
+        height: 71px;
+    }
+    .third-section .Fat-travelers p{
+        font-size: 6px;
+
+    }
+    .Fat-travelers span{
+        color: black;
+        font-size: 4px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .best-cpmression{
+        margin-left: 10px;
+    }
+    .best-cpmression img{
+        display: block;
+        width: 100%;
+        height: 72px;
+    }
+    .third-section .best-cpmression p{
+        font-size: 6px;
+    }
+    .best-cpmression span{
+        font-size: 4px;
+    }
+
+        
+    .where-to-go-next{
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    .Everything-You-Need img{
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+    .Everything-You-Need p{
+        font-size: 6px;
+        margin-bottom: 6px;
+    }
+    .Everything-You-Need em{
+        font-size: 4px;
+    }
+    .Everything-You-Need hr{
+        vertical-align: bottom;
+        margin: 0px;
+    }
+    
+    
+    .The-Acient-Trading{
+        margin-left: 10px;
+    }
+    .The-Acient-Trading img{
+        display: block;
+        width: 100%;
+        height: 100%;
+
+    }
+    .The-Acient-Trading p{
+        font-size: 6px;
+        margin-bottom: 0px;
+
+    }
+    .The-Acient-Trading  em{
+        font-size: 4px;
+        margin-top: 0px;
+    
+    }
+    .The-Acient-Trading hr{
+        vertical-align: bottom;
+        margin: 0px;
+    }
+    
+    .Best-Places-to-visit img{
+        display: block;
+        width: 100%;
+        height: 79px;
+    }
+    .Best-Places-to-visit p{
+        font-size: 6px;
+        margin-bottom: 6px;
+    
+    }
+    .Best-Places-to-visit hr{
+        margin-top: 0px;
+        vertical-align: bottom;
+    }
+
+    .Best-Places-to-visit em{
+        color: black;
+        font-size: 4px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
+    
+    .Great-Wintery-Trips{
+        margin-left: 10px;
+    }
+    .Great-Wintery-Trips img{
+        display: block;
+        width: 100%;
+        height: 79px;
+    }
+    .Great-Wintery-Trips p{
+        font-size: 6px;
+        margin-bottom: 0px;
+    }
+    .Great-Wintery-Trips em{
+        margin-top: 0px;
+        color: black;
+        font-size: 4px;  
+    }
+    .Great-Wintery-Trips hr{
+        margin: 0px;
+        vertical-align: bottom;
+    }
+    .headline-ul{
+        font-size: 7px;
+        line-height: 1.2em;
+    }
+    .headline-ul2 p{
+        font-size: 10px;
+    }
+    .fourth-section .incredible-hotels{
+        font-size: 18px;
+        margin-top: 25px;
+    }
+    
+    .stay-here-next img{
+        display: block;
+        width: 100%;
+        height: 70px;
+    }
+    .stay-here-next p{
+        color: black;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 8px;
+        margin-bottom: 0px;
+    }
+    .stay-here-next span{
+        font-size: 4px;
+    }
+    .how-to-support {
+        margin-left: 10px;
+    }
+    .how-to-support img{
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+    .how-to-support p{
+        font-size: 8px;
+        margin-bottom: 0px;
+    }
+    .how-to-support span{
+        font-size: 4px;
+ 
+    }
+    
+    .spend-the-night{
+        margin-left: 10px;
+    }
+    .spend-the-night img{
+        width: 100%;
+        height: 74px;
+    }
+     .spend-the-night p{
+        font-size: 7px;
+        margin-bottom: 1px;
+    }
+    .spend-the-night span{
+        font-size:4px;
+    }
+
+    .travel-guide-div{
+        margin-top: 20px;
+        font-size: 20px;
+        text-align: center;
+        background-color: rgb(243, 243, 243);
+        padding:5px;
+    }
+    
+    .featured-travel{
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    .Saudi-travel img{
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+    .Saudi-travel p{
+        font-size: 8px;
+    }
+    .Swizerland-travel{
+        margin-left: 10px;
+    }
+    .Swizerland-travel img{
+        display: block;
+        width: 100%;
+        height: 10%;
+    }
+    .Swizerland-travel p{
+        font-size: 8px;
+    }
+    
+    
+    .zealand-travel{
+        width: 30%;
+        display: inline-block;
+        margin-left: 10px;
+    }
+    .zealand-travel img{
+        display: block;
+        width: 100%;
+        height: 72px;
+    }
+    .zealand-travel p{
+        font-size: 8px;
+
+    }
+    .Puerto-travel{
+        width: 30%;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .Puerto-travel img{
+        display: block;
+        width: 100%;
+        height: 73px;
+    }
+    .Puerto-travel p{
+        font-size: 8px;
+    }
+    
+    .California-travel{
+        margin-left: 10px;
+        vertical-align: top;
+    }
+    .California-travel img{
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+    .California-travel p{
+        font-size: 8px;
+    }
+    
+    .Dhabi-travel{
+        width: 30%;
+        display: inline-block;
+        margin-left: 10px;
+        vertical-align: top;
+    }
+    .Dhabi-travel img{
+        display: block;
+        width: 100%;
+        height: 73px;
+    }
+    .Dhabi-travel p{
+        font-size: 8px;
+    }
+
+    .container-div{
+        margin-top: 60px;
+    }
+    .headline-ul-01{
+        vertical-align: top;
+        font-size: 7px;
+    }
+    .headline-ul-01 p{
+        font-size: 6px;
+    }
+    
+    .headline-ul-02{
+        font-size: 7px;
+        margin-left: 10px;
+        vertical-align: top;
+    }
+    .headline-ul-02 p{
+        font-size:6px;
+    }
+    .headline-ul-03{
+        font-size: 7px;
+        margin-left: 10px;
+        
+    }
+    .headline-ul-03 p{
+        font-size: 6px;
+    }
+    .Podcasts-div{
+        margin-top: 20px;
+        font-size: 20px;
+        padding: 5px;
+        margin: 20px 0px;
+    }
+    .section-seventh-div{
+        margin: 0px ;
+    }
+    .travel-tale-p{
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    
+    .trave-tales-adventures {
+        width: 35%;
+        display: inline-block;
+        margin: 0px;
+    }
+    .trave-tales-adventures img{
+        display: block;
+        width: 100%;
+    }
+    .trave-tales-adventures p{
+        font-size: 7px;
+    }
+    
+    .trave-tales-adventures .second-paragraph{
+        font-size: 9px;
+        margin: 10px 0px ;
+    }
+    
+    .trave-tales-adventures span{
+        font-size: 7px;
+    }
+    
+    .inner-div{
+       padding: 0px;
+    }
+    .Septuagenarian-Explorer{
+        width: 45%;
+        display: inline-block;
+        vertical-align: top;
+        margin-right:10px;
+    }
+    .Septuagenarian-Explorer p{
+        font-size: 7px;
+        margin: 5px 0px;
+    }
+    .Septuagenarian-Explorer img{
+        width: 100%;
+    }
+    .Septuagenarian-Explorer span{
+        font-size: 5px;
+    }
+    .Septuagenarian-Explorer em{
+        font-size: 5px;
+    }
+    
+    .Ton-Trace{
+        margin:0px;
+    }
+    .Ton-Trace img{
+        display: inline-block;
+        width: 100%;
+        height: 68px;
+    }
+    .Ton-Trace p{
+        font-size: 7px;
+        margin: 5px 0px;
+    }
+    .Ton-Trace span{
+        display: block;
+        font-size: 5px;
+        margin: 0px;
+    }
+    .Ton-Trace em{
+        color: black;
+        font-size: 5px;
+        font-family: 'Times New Roman', Times, serif;
+        margin-bottom:0px;
+    }
+    .Ton-Trace hr{
+        margin-top: 0px;
+    }
+
+    .Colombian-Enough{
+        margin-right: 10px;
+    }
+    
+    .Colombian-Enough img{
+        display: block;
+        width: 100%;
+        margin:0px;
+    }
+    .Colombian-Enough p{
+        font-size: 7px;
+        margin: 5px 0px;
+    }
+    .Colombian-Enough span{
+        font-size: 7px;
+    }
+    
+    .Colombian-Enough em{
+        display: block;
+        font-size: 5px;
+        margin: 5px 0px ;
+    }
+    .Colombian-Enough hr{
+        margin-top: 0px;
+    }
+    .Meet-Me{
+        width: 45%;
+        margin: 0px;
+        margin: 0px;
+    }
+    .Meet-Me img{
+        display: block;
+        width: 100%;
+        height: 65px;
+    }
+    .Meet-Me p{
+        font-size: 7px;
+        margin: 5px 0px;
+    }
+    .Meet-Me span{
+        font-size: 7px;
+        margin: 0px;
+    }
+    .Meet-Me em{
+        display: block;
+        font-size: 5px;
+        margin: 5px 0px ;
+    }
+    .Meet-Me hr{
+        margin-top: 0px;
+    }
+    
+    .trave-tales-adventures{
+        margin-right: 10px;
+    }
+    
+    .joint-div{
+        display: inline-block;
+        width: 60%;
+    }
+    
+    .bt-more-episode{
+        position: relative;
+        left: -470px;
+        padding: 10px;
+        width: 100px;
+        font-size: 7px;
+        margin-bottom: 20px;
+    }
+    .eight-secton {
+        background: rgb(8, 10, 39);
+        margin:0px;
+        height: 100%;
+        width: 100%;
+        padding: 0px;
+    }
+    .column-div {
+        width: 100%;
+    }
+    .column-div a{
+        text-decoration: none;
+        color: white;
+    }
+    .first-column{
+        width: 18%;
+        margin-right: 0px;
+    }
+    .first-column ul {
+        padding: 0px;
+    }
+    .first-column li {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 5px;
+        line-height: 3em;
+    }
+
+    .second-column{
+        width: 30%;
+        margin: 0px;
+        margin-right: 5px;
+    }
+    .second-column ul {
+        padding: 0px;
+    }
+    .second-column li {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 5px;
+        line-height: 3em;
+
+    }
+
+    .third-column{
+        width: 25%;
+        margin: 0px;
+        
+    }
+    .third-column ul {
+        padding: 0px;
+    }
+    .third-column li {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 5px;
+        line-height: 3em;
+        margin-left: 0px;
+    }
+    .afar-footer-div {
+        display: inline-block;
+        width: 20%;
+        vertical-align:top;
+        margin-left: 0px;
+        margin-top: 0px;
+        
+    }
+    .afar-footer-div p{  
+        color: white;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 7px;
+        margin: 20px;
+        margin-bottom: 0px;
+        margin-left: 8px;
+    }
+    .afar-footer-div ul{
+        width: 100%;
+        margin: 0px;
+    } 
+    .afar-footer-div li img{
+        width: 10px;
+        display: flex;
+        
+    }
+    
+    footer{  
+        color: white;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 4px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    
+       
+}
+    
